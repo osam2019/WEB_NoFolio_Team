@@ -51,7 +51,7 @@ npe install -g @vue/cli
 ## **기능 설명**
 ### 0. 프레젠테이션
 
-pdf 업로드 후 추가해야함...
+프레젠테이션: [https://github.com/osam2019/WEB_NoFolio_Team/blob/master/OSAM2019_NoFolio.pdf](https://github.com/osam2019/WEB_NoFolio_Team/blob/master/OSAM2019_NoFolio.pdf)
 
 ### 1.  로그인 전
 
