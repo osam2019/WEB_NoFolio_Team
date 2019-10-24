@@ -41,8 +41,18 @@ npe install -g @vue/cli
 > - ### **기업의 쉬운 개발자 채용**
 >  #### 개발자가 자신의 개발 능력치를 잘 표현하게 됨에 따라서, 기업도 적은 비용으로 원하는 능력치의 개발자를 채용하기 편해진다.
 
+## **기능 설계**
+### 0. 화면 정의서
+
+메인 화면 정의서: [https://ovenapp.io/view/p6FUOL91qcHhYv5iY6H56LqTK8ZHKEEf/xdJsm](https://ovenapp.io/view/p6FUOL91qcHhYv5iY6H56LqTK8ZHKEEf/xdJsm)
+
+프로젝트 테마 화면 정의서: [https://ovenapp.io/view/C8SMc4QWVo2UAyzmeh344UAxluCUl3hK/DPIpM](https://ovenapp.io/view/C8SMc4QWVo2UAyzmeh344UAxluCUl3hK/DPIpM)
 
 ## **기능 설명**
+### 0. 프레젠테이션
+
+pdf 업로드 후 추가해야함...
+
 ### 1.  로그인 전
 
 ![>](https://drive.google.com/uc?id=1dnbhmcUYk6OhwoAPhiykjqMpzVLbtu9t)
