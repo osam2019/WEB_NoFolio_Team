@@ -51,7 +51,7 @@ npe install -g @vue/cli
 ## **기능 설명**
 ### 0. 프레젠테이션
 
-프레젠테이션: [https://github.com/osam2019/WEB_NoFolio_Team/blob/master/OSAM2019_NoFolio.pdf](https://github.com/osam2019/WEB_NoFolio_Team/blob/master/OSAM2019_NoFolio.pdf)
+프레젠테이션: [https://github.com/osam2019/WEB_NoFolio_Team/blob/master/OSAM2019_NoFolio.pdf](https://github.com/osam2019/WEB_NoFolio_Team/blob/master/WEB_NoFolio_Team.pdf)
 
 ### 1.  로그인 전
 
