@@ -1,0 +1,312 @@
+{
+	"PortFolioes":[
+		{
+			"User":{
+				"title": "오시환의 포트폴리오",
+				"image": "/assets/1.jpg",
+				"introduce": "안 되면 될 때까지 개발하겠습니다.",
+				"profile":{
+					"name": "오시환",
+					"birth": "1995.08.26",
+					"email": "tghks905@gmail.com",
+					"github": "github.com/s0metimes"
+				},
+				"acheivements":[
+					"2019 국방 스타트업 챌린지 육군참모총장상"
+				],
+				"careers":[
+					"2015.03 ~ 2017.06 한양대학교 3학년 재학",
+					"2016.12 ~ 2017.02 (주)Widevantage 인턴으로 핸드폰 센서 측정 앱 개발",
+					"2017.09 ~ 2018.03 (주)옵티마이즈 CTO 로 서비스의 초기 웹서버 개발 및 기획 참여"
+				],
+				"skills":{
+					"used_languages":[
+						{
+							"title":"C",
+							"value":"c",
+							"used":10
+						},
+						{
+							"title":"Java",
+							"value":"java",
+							"used":32
+						},
+						{
+							"title":"C#",
+							"value":"csharp",
+							"used":5
+						},
+						{
+							"title":"Js",
+							"value":"javascript",
+							"used":50
+						}
+					],
+					"used_frameworks":[
+						{
+							"title":"express",
+							"version":"3.0"
+						},
+						{
+							"title":".net framework",
+							"version":"4.8"
+						},
+						{
+							"title":"spring",
+							"version":"3.0"
+						}
+					],
+					"used_tools":[
+						"visual studio IDE",
+						"visual studio code",
+						"webstorm",
+						"notepad++",
+						"eclipse"
+					]
+				}
+			},
+			"Projects":[
+				{
+					"title": "공유 웹 하드",
+					"summary": "회원 관리 및 파일을 분할하여 관리를 할 수 있는 웹 서비스",
+					"skills": "회원 관리, 파일 관리",
+					"learned": "Spring, 파일 관리 기능 구현",
+					"used_languages":[
+						{
+							"title":"C",
+							"value":"c",
+							"used":10
+						},
+						{
+							"title":"C#",
+							"value":"csharp",
+							"used":5
+						},
+						{
+							"title":"NodeJS",
+							"value":"nodejs",
+							"used":5
+						}
+					],
+					"quality":{
+						"dry":10,
+						"coupling":10,
+						"cohension":10,
+						"standard":10,
+						"complexity":10
+					}
+				},
+				{
+					"title": "Low Traffic Effective Broadcast",
+					"summary": "완전 이진 트리를 이용하여 서버의 비용을 줄일 수 있는 방송 시스템 구현",
+					"skills": "방송중인 서버의 목록을 보여줄 Zone Server와 적은 통신비용을 위한 완전 이진 트리 구조의 마스터/슬레이브 송수신 알고리즘 구현",
+					"learned": "완전 이진 트리 송수신 알고리즘 구현",
+					"used_languages":[
+						{
+							"title":"Java",
+							"value":"java",
+							"used":32
+						},
+						{
+							"title":"Js",
+							"value":"javascript",
+							"used":50
+						}
+					],
+					"quality":{
+						"dry":8,
+						"coupling":10,
+						"cohension":3,
+						"standard":10,
+						"complexity":10
+					}
+				}
+			]
+		},
+		{
+			"User":{
+				"title": "이건 포트폴리오",
+				"image": "/assets/2.jpg",
+				"introduce": "개발이 하고 싶습니다.",
+				"profile":{
+					"name": "이건",
+					"birth": "1997.01.28",
+					"email": "zkdlu159951@gmail.com",
+					"github": "github.com/zkdlu"
+				},
+				"acheivements":[
+					"정보처리 기사",
+					"BIT SW Project 2급"
+				],
+				"careers":[
+					"2017.08.19 ~ 2018.02.12 (주)오프닝 개발팀",
+					"2018.06.01 ~ 2018.08.16 (주)씽크윈텍 개발팀"
+				],
+				"skills":{
+					"used_languages":[
+						{
+							"title":"C",
+							"value":"c",
+							"used":150
+						},
+						{
+							"title":"Java",
+							"value":"java",
+							"used":200
+						},
+						{
+							"title":"C#",
+							"value":"csharp",
+							"used":250
+						},
+						{
+							"title":"C++",
+							"value":"cpp",
+							"used":200
+						}
+					],
+					"used_frameworks":[
+						{
+							"title":"express",
+							"version":"3.0"
+						},
+						{
+							"title":".net framework",
+							"version":"4.8"
+						},
+						{
+							"title":"spring",
+							"version":"3.0"
+						}
+					],
+					"used_tools":[
+						"visual studio IDE",
+						"visual studio code",
+						"webstorm",
+						"notepad++",
+						"eclipse"
+					]
+				}
+			},
+			"Projects":[
+				{
+					"title": "순서도 기반 교육용 비주얼 프로그래밍 프레임워크",
+					"summary": "GUI프로그램을 별도의 코딩을 하지 않고 드래그 앤 드랍 형식으로 UI와 각 이벤트에 대한 순서도를 정의하여 개발",
+					"skills": "프로그램의 UI및 이벤트 설정을 위한 UI디자이너, 로직을 순서도로 작성하기 위한 Flowchart 디자이너, 디자이너로 작성 한 UI와 순서도를 해석하기 위한 인터프리터로 이루어짐",
+					"learned": "wpf를 이용한 mvvm패턴",
+					"used_languages":[
+						{
+							"title":"C",
+							"value":"c",
+							"used":150
+						},
+						{
+							"title":"C#",
+							"value":"csharp",
+							"used":250
+						}
+					],
+					"quality":{
+						"dry":8,
+						"coupling":6,
+						"cohension":6,
+						"standard":9,
+						"complexity":5
+					}
+				},
+				{
+					"title": "사용자 접근성 향상 PC 제어 프로그램",
+					"summary": "사용자와 PC간의 상호작용을 추가하여, 원격지의 PC를 제어 할 수 있다.",
+					"skills": "WebCam과 Kinect를 이용한 영상 처리를 통해 마우스, 키보드 이벤트를 발생, 아두이노를 이용한 리모컨을 제작 및 한글 오토마타를 개발하여 한글 키패드 기능 개발, 원격지의 PC를 제어하기 위한 원격제어 기능 개발",
+					"learned": "WebCam과 Kinect를 이용한 영상처리",
+					"used_languages":[
+						{
+							"title":"Java",
+							"value":"java",
+							"used":200
+						},
+						{
+							"title":"C#",
+							"value":"chsarp",
+							"used":200
+						},
+						{
+							"title":"C++",
+							"value":"cpp",
+							"used":200
+						}
+					],
+					"quality":{
+						"dry":2,
+						"coupling":3,
+						"cohension":0,
+						"standard":5,
+						"complexity":5
+					}
+				}
+			]
+		},
+		{
+			"User":{
+				"title": "서범석",
+				"image": "/assets/3.jpg",
+				"introduce": "어린이 개발자입니다.",
+				"profile":{
+					"name": "서범석",
+					"birth": "1994.12.16",
+					"email": "sbseok12@gmail.com",
+					"github": "github.com/callipenguin"
+				},
+				"acheivements":[
+					"18' 캘리그라피 동아리 성과 발표회 우수"
+				],
+				"careers":[
+					"18' 오사카산업대학교 졸업"
+				],
+				"skills":{
+					"used_languages":[
+						{
+							"title":"NodeJS",
+							"value":"nodejs",
+							"used":5
+						}
+					],
+					"used_frameworks":[
+						{
+							"title":"express",
+							"version":"3.0"
+						}
+					],
+					"used_tools":[
+						"visual studio code",
+						"webstorm",
+						"notepad++",
+						"goorm ide"
+					]
+				}
+			},
+			"Projects":[
+				{
+					"title": "네트워크 패킷 스니퍼",
+					"summary": "패킷 캡쳐 도구인 Wireshark의 기능인 패킷 스니퍼를 Raw socket을 이용하여 구현",
+					"skills": "Raw socket을 이용하여 통신 중인 네트워크의 패킷을 캡쳐 후 캡쳐 한 패킷을 분석하여 알맞은 프로토콜에 맞게 출력해준다.",
+					"learned": "raw socket",
+					"used_languages":[
+						{
+							"title":"NodeJS",
+							"value":"nodejs",
+							"used":5
+						}
+					],
+					"quality":{
+						"dry":6,
+						"coupling":4,
+						"cohension":8,
+						"standard":4,
+						"complexity":4
+					}
+				}
+			]
+		}
+	]
+}
